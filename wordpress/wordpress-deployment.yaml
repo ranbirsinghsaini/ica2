@@ -35,7 +35,7 @@ spec:
             - name: WORDPRESS_DB_HOST
               value: mariadb-service.mariadb.svc.cluster.local
              # value: 10.112.85.229
-            - name : WORDPRESS_DB_USER 
+            - name: WORDPRESS_DB_USER 
               value: wordpress_user 
             - name: WORDPRESS_DB_PASSWORD
               value: your_db_password
